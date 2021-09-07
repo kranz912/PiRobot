@@ -10,7 +10,7 @@ from ezblock import Pin
 
 reference = 10
 
-distance = None
+distance = 99
 
 pin_D0 = Pin("D0")
 
